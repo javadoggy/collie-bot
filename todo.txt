@@ -1,0 +1,31 @@
+/ping
+/join
+/leave
+/play
+/skip
+/mute
+/unmute
+/pause
+/resume
+/stop
+/queue list
+/queue add
+/queue remove
+/next
+/volume
+    /volume <0-100>
+    /volume [show volume]
+/nowplaying
+    /np
+/clear
+/shuffle
+/loop
+/seek
+/autoplay
+/disconnect
+/connect
+
+/chat clear
+/kick
+/ban
+/slow
